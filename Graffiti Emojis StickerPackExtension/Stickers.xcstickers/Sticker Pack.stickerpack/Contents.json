@@ -1,4 +1,18 @@
 {
+  "stickers" : [
+    {
+      "filename" : "image1.sticker"
+    },
+    {
+      "filename" : "image2.sticker"
+    },
+    {
+      "filename" : "image3.sticker"
+    },
+    {
+      "filename" : "image4.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
